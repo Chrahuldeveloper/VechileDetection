@@ -8,6 +8,7 @@ Note: Datasets and trained weights are not included in the repo. See instruction
 🛠️ Setup Instructions
 1️⃣ Clone the repository
 git clone https://github.com/<your-username>/VehicleDetection.git
+
 cd VehicleDetection
 
 2️⃣ Install dependencies
