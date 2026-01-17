@@ -1,4 +1,4 @@
-Vehicle Detection using YOLO
+Vehicle Detection 
 
 This project demonstrates vehicle detection using the Ultralytics YOLOv8 model.
 The model is trained on a custom vehicle dataset and can detect vehicles in images.
